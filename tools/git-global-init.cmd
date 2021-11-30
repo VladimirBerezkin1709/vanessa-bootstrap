@@ -2,8 +2,8 @@
 
 @rem for current user
 
-git config --global user.name "Your Name"
-git config --global user.email your@email
+git config --global user.name "VladimirBerezkin1709"
+git config --global user.email cromton@mail.ru
 
 @rem global
 
@@ -22,7 +22,7 @@ git config --global alias.last "log -1 HEAD"
 @rem for Windows
 
 git config --global core.autocrlf true
-git config --global core.safecrlf false
+git config --global core.safecrlf true
 
 @rem for Linux and MacOS
 @rem git config --global core.autocrlf input
